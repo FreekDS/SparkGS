@@ -19,7 +19,7 @@ chardet==3.0.4
 chrome-gnome-shell==0.0.0
 Click==7.0
 colorama==0.4.1
-cryptography==2.6.1
+cryptography==3.3.2
 cupshelpers==1.0
 cycler==0.10.0
 dbus-python==1.2.12
